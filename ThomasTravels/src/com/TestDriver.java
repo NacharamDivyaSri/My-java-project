@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class TestDriver {
 
 	public static void main(String[] args) {
-		Driver driver1= new Driver( "Auto",1, "divisha",1000.0);
+	Driver driver1= new Driver( "Auto",1, "divisha",1000.0);
         Driver driver2 = new Driver( "Car",2, "pallavi",2000.0);
         Driver driver3 = new Driver("Lorry",3, "chintu" ,3000.0);
         Driver driver4= new Driver( "Auto",4, "sweety",1000.0);
